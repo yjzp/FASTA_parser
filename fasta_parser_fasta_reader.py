@@ -1,5 +1,5 @@
 """
-Простая реализация класса FastaReader
+Реализация класса FastaReader
 """
 
 from fasta_parser.seq import Seq
