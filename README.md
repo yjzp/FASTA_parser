@@ -27,7 +27,7 @@ cd fasta_parser
 ## Быстрый старт
 
 ```python
-from fasta_parser import Seq, FastaReader
+from fasta_parser import seq, fastareader
 
 # Работа с последовательностями
 seq = Seq("ATGCGTAG", "Example DNA")
