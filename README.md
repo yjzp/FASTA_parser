@@ -15,8 +15,6 @@ Python библиотека для работы с биологическими 
 ```bash
 git clone https://github.com/yjzp/fasta-parser.git
 cd fasta-parser
-pip install -r requirements.txt
-pip install -e .
 ```
 
 ### Для разработки
@@ -24,8 +22,6 @@ pip install -e .
 ```bash
 git clone https://github.com/username/fasta-parser.git
 cd fasta-parser
-pip install -r requirements.txt
-pip install -e .[dev]
 ```
 
 ## Быстрый старт
