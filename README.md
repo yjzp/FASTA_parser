@@ -21,13 +21,13 @@ cd fasta_parser
 ## Быстрый старт
 
 ```python
-from fasta_parser import seq, fastareader
+from fasta_parser import Seq, FastaReader
 
 # Работа с последовательностями
 seq = Seq("ATGCGTAG", "Example DNA")
-print(seq.get_alphabet_type())  # "DNA"
-print(seq.get_gc_content())     # 50.0
-print(len(seq))                 # 8
+print(seq.get_alphabet_type())
+print(seq.get_gc_content())
+print(len(seq))
 
 # Чтение FASTA файла
 reader = FastaReader("sequences.fasta")
