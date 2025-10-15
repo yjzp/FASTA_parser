@@ -14,14 +14,14 @@ Python библиотека для работы с биологическими 
 
 ```bash
 git clone https://github.com/yjzp/FASTA_parser.git
-cd fasta-parser
+cd fasta_parser
 ```
 
 ### Для разработки
 
 ```bash
 git clone https://github.com/username/FASTA_parser.git
-cd fasta-parser
+cd fasta_parser
 ```
 
 ## Быстрый старт
